@@ -1,0 +1,48 @@
+﻿@model ContactManager
+
+    <h2 class="text-center">Редагувати відправлення</h2>
+    <form asp-action="Edit" asp-controller="home" asp-route-id="@Model.Id" method="post" class="form-horizontal" role="form" enctype="multipart/form-data">
+        <div class="form-row">
+            <div class="col-md-6 mb-3">
+
+                <label asp-for="@Model.Name" class="control-label">Name</label>
+
+                <input type="text" asp-for="@Model.Name" class="form-control" />
+
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <label asp-for="@Model.Dateofbirth">Data of birthday</label>
+                <input asp-for="@Model.Dateofbirth" class="form-control" />
+
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="col-md-6 mb-3">
+
+                <label asp-for="@Model.Phone" class="control-label">Phone</label>
+
+                <input type="text" asp-for="@Model.Phone" class="form-control" />
+            </div>
+
+
+
+            <div class="col-md-6 mb-3">
+
+                <label asp-for="@Model.Salary" class="control-label">Salary</label>
+
+                <input type="text" asp-for="@Model.Salary" class="form-control" />
+
+            </div>
+        
+            <div class="col-md-6 mb-3">
+                
+                <label asp-for="@Model.Married" class="control-label">Married</label>
+
+                <input type="checkbox" asp-for="@Model.Married"  value="true" />
+
+            </div>
+        </div>
+            <button class="btn btn-primary" type="submit">Save</button>
+        
+    </form>

@@ -1,0 +1,74 @@
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\appsettings.json
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Contact Manager.exe
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Contact Manager.deps.json
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Contact Manager.runtimeconfig.json
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Contact Manager.runtimeconfig.dev.json
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Contact Manager.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\ref\Contact Manager.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Contact Manager.pdb
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Contact Manager.Views.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Contact Manager.Views.pdb
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.csprojAssemblyReference.cache
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.AssemblyInfoInputs.cache
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.AssemblyInfo.cs
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.RazorAssemblyInfo.cache
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.RazorAssemblyInfo.cs
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\staticwebassets\Contact Manager.StaticWebAssets.Manifest.cache
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\staticwebassets\Contact Manager.StaticWebAssets.xml
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\scopedcss\bundle\Contact Manager.styles.css
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.TagHelpers.input.cache
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.TagHelpers.output.cache
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.RazorCoreGenerate.cache
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.RazorTargetAssemblyInfo.cache
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.RazorTargetAssemblyInfo.cs
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.Views.pdb
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.csproj.CopyComplete
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\ref\Contact Manager.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.pdb
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Contact Manager.genruntimeconfig.cache
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Humanizer.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Razor\Views\Home\Present.cshtml.g.cs
+C:\Users\misha\source\repos\Contact Manager\Contact Manager\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs

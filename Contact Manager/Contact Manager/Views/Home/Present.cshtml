@@ -1,0 +1,48 @@
+﻿@model IEnumerable<ContactManager>
+    
+    <table class="display" id="example">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Name</th>
+                <th scope="col">Dateofbirth</th>
+                <th scope="col">Married</th>
+                <th scope="col">Phone</th>
+                <th scope="col">Salary</th>
+                <th scope="col">Дія</th>
+
+            </tr>
+        </thead>
+        @if (Model != null)
+        {
+            <tbody>
+
+                @foreach (var item in Model)
+                {
+
+                    <tr>
+                        <th scope="row">@item.Id</th>
+                        <td>@item.Name</td>
+                        <td>@item.Dateofbirth.ToShortDateString()</td>
+                        <td>@item.Married</td>
+                        <td>@item.Phone</td>
+                        <td>@item.Salary</td>
+                        <td>
+                            <form asp-controller="Home" asp-action="Delete" method="post">
+                                <input name="id" id="id" value="@item.Id" type="hidden" />
+                                <input type="submit" value="Видалити" />
+                            </form>___________
+                            <form asp-controller="Home" asp-action="Edit" method="get">
+                                <input name="id" id="id" value="@item.Id" type="hidden" />
+                                <input type="submit" value="Редагувати" />
+                            </form>
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+        }
+    </table>
+
+
